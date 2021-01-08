@@ -16,5 +16,4 @@ var user = {
 console.log(user.firstName);
 console.log(user.getCourseCount());//0
 user.buyCourse("Angular");
-console.log(user.getCourseCount());//1
-
+console.log(user.getCourseCount());//1  
