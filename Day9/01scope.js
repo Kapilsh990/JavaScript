@@ -7,7 +7,7 @@ if (true) {
 }
 console.log(name);//kapil
 
-f (true) {
+if (true) {
     let name = "kapil";
 }
 console.log(name);//error
